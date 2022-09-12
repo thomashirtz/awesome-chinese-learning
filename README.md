@@ -18,7 +18,7 @@ Training vocabulary with flashcards will take quite some time. It is therefore _
 </p>
 
 
-## [Zhongwen](https://github.com/cschiller/zhongwen)(Browser extension)
+## [Zhongwen](https://github.com/cschiller/zhongwen) (Browser extension)
 Zhongwen is a Chinese pop-up dictionary for browser (Chrome, Firefox, ...). It is useful to get the translation of specific word in a page by hovering the word with the mouse.
 
 It is also possible to add the hovered vocabulary to a list by pressing "R". The list can be accessed using "Alt + W".
@@ -37,8 +37,8 @@ Two main chinese-english dictionaries are popular:
 Both have a free version and a version where you have a one time purchase to get more vocabulary (defintely worth it). Some comparisons exist on the internet. 
 
 ## Translator
-1. Google translate : Best translator, however not available in China.
-2. [Bing translator](https://www.bing.com/translator) : Works in china.
+1. [Google translate](https://translate.google.com/?sl=zh-CN&tl=en): Best translator, however, it is not available in China.
+2. [Bing translator](https://www.bing.com/translator): Works in china.
 3. [Baidu translator](https://fanyi.baidu.com/#zh/en/)
 
 ## Ressources
@@ -93,7 +93,7 @@ Some Chinese OCRs for converting an image to text using the computer (It can be 
 1. [Convertio](https://convertio.co/ocr/chinese/)
 2. [Easy ScreenOCR](https://online.easyscreenocr.com/Home/ChineseOCR)
 
-## Pinyin Converter
+### Pinyin Converter
 A converter that transforms chinese characters into pinyin, can be very useful (expecially when creating anki cards or else).
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
