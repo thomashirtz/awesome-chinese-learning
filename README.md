@@ -9,7 +9,7 @@ Repository to share resources and tips that can help when learning chinese.
 The deck that I use extensively is the one I found on reddit: ["Best Anki Deck for HSK I've come across"](https://www.reddit.com/r/ChineseLanguage/comments/7mjmjc/best_anki_deck_for_hsk_ive_come_across/)
 
 ### Settings  
-Training vocabulary with flashcards will take quite some time. It is therefore _strongly_ recommended to finely tune the settings of the deck before using it extensively. 
+Training vocabulary with flashcards will take quite some time. It is therefore _strongly_ recommended to finely tune the settings of the deck before using it extensively :
 
 <p align="center">
  <a target="_blank" href="https://youtu.be/1XaJjbCSXT0">
