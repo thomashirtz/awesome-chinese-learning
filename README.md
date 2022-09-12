@@ -22,3 +22,7 @@ https://youtu.be/1XaJjbCSXT0
 Chrome and Firefox extension to highlight words in the browser.
 It is possible to add the hovered vocabulary to a list by pressing "R". The list can be accessed using "Alt + W".
 The vocabularies can thereafter be downloaded and added to ANKI.
+
+### Learning how to write
+
+[How to write Chinese character](https://play.google.com/store/apps/details?id=com.ansami.hkchinesechar&hl=en_US&gl=US) is an excellent android application to learn stroke orders as well as how to write characters.
