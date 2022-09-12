@@ -12,8 +12,13 @@ The deck that I use extensively is the one I found on reddit: ["Best Anki Deck f
 
 **Settings**  
 Guide for setting up the intervals and the number of cards on ANKI, I _strongly_ advise people to watch it before or when starting to use flashcard extensively.
-https://youtu.be/1XaJjbCSXT0
-![Guide to Anki Intervals and Learning Steps](https://i.ytimg.com/vi/1XaJjbCSXT0/maxresdefault.jpg)
+
+<p align="center">
+ <a target="_blank" href="https://youtu.be/1XaJjbCSXT0">
+  <img src="https://i.ytimg.com/vi/1XaJjbCSXT0/maxresdefault.jpg" width="300"/>
+ </a>
+</p>
+
 
 ### Browser extension
 
