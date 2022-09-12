@@ -92,3 +92,8 @@ Example of free book : [三体](https://www.shizongzui.cc/santi/),
 Some Chinese OCRs for converting an image to text using the computer (It can be quite useful if you want to get e.g. the list of a vocabulary on your chinese textbook into your Anki decks).
 1. [Convertio](https://convertio.co/ocr/chinese/)
 2. [Easy ScreenOCR](https://online.easyscreenocr.com/Home/ChineseOCR)
+
+## Pinyin Converter
+A converter that transforms chinese characters into pinyin, can be very useful (expecially when creating anki cards or else).
+1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
+2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
