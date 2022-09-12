@@ -53,10 +53,10 @@ Netflix can be used to learn chinese ! This works the browser (at least Mozilla)
 ### XuetangX
 The equivalent of coursera in Chinese, you can use the Zhongwen + F11 Mode in order to have the possibility of dictionary pop-up when watching classes.
 
-## Viki
+### Viki
 There is some shows with subtitles in Chinese with a direct look up when clicking on them. It is extremely well made, however the selection of shows having the feature was quite poor several years ago.
 
-## Bilibili
+### Bilibili
 Equivalent of youtube. Howener, in contrast to youtube, netflix, ..., the platform does not have built in subtitles. It is therefore less convinient to learn Chinese with this platform.
 
 ### [Chinese Zero To Hero](https://chinesezerotohero.teachable.com/courses) 
