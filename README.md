@@ -9,7 +9,7 @@ Repository to share resources and tips that can help when learning chinese.
 The deck that I use extensively is the one I found on reddit: ["Best Anki Deck for HSK I've come across"](https://www.reddit.com/r/ChineseLanguage/comments/7mjmjc/best_anki_deck_for_hsk_ive_come_across/)
 
 ### Settings  
-Training vocabulary with flashcards will take quite some time. It is therefore _strongly_ recommended to finely tune the settings of the deck before using it extensively :
+Training vocabulary with flashcards will take quite some time. It is therefore _strongly_ recommended to finely tune the settings of the deck before using it extensively. 
 
 <p align="center">
  <a target="_blank" href="https://youtu.be/1XaJjbCSXT0">
@@ -18,7 +18,7 @@ Training vocabulary with flashcards will take quite some time. It is therefore _
 </p>
 
 
-## [Zhongwen](https://github.com/cschiller/zhongwen) (Browser extension)
+## [Zhongwen](https://github.com/cschiller/zhongwen)(Browser extension)
 Zhongwen is a Chinese pop-up dictionary for browser (Chrome, Firefox, ...). It is useful to get the translation of specific word in a page by hovering the word with the mouse.
 
 It is also possible to add the hovered vocabulary to a list by pressing "R". The list can be accessed using "Alt + W".
@@ -37,11 +37,11 @@ Two main chinese-english dictionaries are popular:
 Both have a free version and a version where you have a one time purchase to get more vocabulary (defintely worth it). Some comparisons exist on the internet. 
 
 ## Translator
-1. [Google translate](https://translate.google.com/?sl=zh-CN&tl=en): Best translator, however, it is not available in China.
-2. [Bing translator](https://www.bing.com/translator): Works in china.
+1. Google translate : Best translator, not available in China.
+2. [Bing translator](https://www.bing.com/translator) : Works in china.
 3. [Baidu translator](https://fanyi.baidu.com/#zh/en/)
 
-## Ressources
+## Video Resources
 
 ### Netflix
 Netflix can be used to learn chinese ! This works the browser (at least Mozilla), two extensions are needed, and some hacks needs to be done :
@@ -54,7 +54,7 @@ Netflix can be used to learn chinese ! This works the browser (at least Mozilla)
 The equivalent of coursera in Chinese, you can use the Zhongwen + F11 Mode in order to have the possibility of dictionary pop-up when watching classes.
 
 ### Viki
-There is some shows with subtitles in Chinese with a direct look up when clicking on them. It is extremely well made, however the selection of shows having the feature was quite poor several years ago.
+There are some shows with subtitles in Chinese with a direct look up when clicking on them. It is extremely well made, however the selection of shows having the feature was quite poor several years ago.
 
 ### Bilibili
 Equivalent of youtube. Howener, in contrast to youtube, netflix, ..., the platform does not have built in subtitles. It is therefore less convinient to learn Chinese with this platform.
@@ -67,7 +67,18 @@ Many courses on chinese, works as a one time purchase. Very clean and well made.
 2. [iQIYI (爱奇艺)](https://www.iqiyi.com/)
 3. [MangoTV (芒果TV)](https://w.mgtv.com/) (It has for example 爸爸去哪儿)
 
-## Miscalleneous
+## Text Ressources
+
+### [Zhihu](https://www.zhihu.com/hot)
+Website similar to Quora, where all the new trends are discuted, question are asked, ...
+
+### [Toutiao](https://www.toutiao.com)
+Most popular news aggregator in China.
+
+### [Weibo](https://weibo.com)
+The chinese twitter.
+
+## Miscellaneous
 ### Douban
 The main website to watch the score of different movies/TV shows. It is the equivalent of IMDB.  
 If you want to search very specific TV shows, you can take a look at the tool I wrote : [douban-crawler](https://github.com/thomashirtz/douban-crawler)
@@ -93,7 +104,18 @@ Some Chinese OCRs for converting an image to text using the computer (It can be 
 1. [Convertio](https://convertio.co/ocr/chinese/)
 2. [Easy ScreenOCR](https://online.easyscreenocr.com/Home/ChineseOCR)
 
-### Pinyin Converter
+## Pinyin Converter
 A converter that transforms chinese characters into pinyin, can be very useful (expecially when creating anki cards or else).
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
+
+### [PotPlayer](https://potplayer.daum.net/)
+Potplayer is a really powerful multimedia player. If you own some videos with chinese subtitles, you can dynamically search online the words that you clicked on.  
+This can be set in :
+```
+Preferences => Subtitles => Research by word 
+```
+You need to put `%%SS` where the word from the subtitle will be in the URL querry. I generally redirect the query to MDBG:
+```
+https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%%SS
+```
