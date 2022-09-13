@@ -80,10 +80,10 @@ The chinese twitter.
 
 ## Calligraphy & Writing
 
-### [How to write Chinese character](https://play.google.com/store/apps/details?id=com.ansami.hkchinesechar&hl=en_US&gl=US) (Android application)
+### [How to write Chinese character](https://play.google.com/store/apps/details?id=com.ansami.hkchinesechar&hl=en_US&gl=US) (Android application)  
 It is an excellent android application for learning stroke order as well as to learn how to write characters.
 
-###[书法字典](http://shufazidian.com/)
+### [书法字典](http://shufazidian.com/)  
 shufazidian is a website as well as a mini program that display the character selected in different style writing. It is extremely helpful when learning to do some calligraphy.
 
 ## Miscellaneous
@@ -109,7 +109,7 @@ Here are some Chinese OCRs for converting an image to text using the computer (I
 1. [Convertio](https://convertio.co/ocr/chinese/)
 2. [Easy ScreenOCR](https://online.easyscreenocr.com/Home/ChineseOCR)
 
-## Pinyin Converter
+### Pinyin Converter
 It is a converter that transforms Chinese characters into pinyin. Such can be very useful, especially when creating Anki cards or else.
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
