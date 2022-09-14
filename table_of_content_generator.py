@@ -10,10 +10,8 @@ def get_table_of_content_entry(text: str) -> str:
     link_text = text.split('#')[-1][1:]
 
     # Remove extra spaces
-    # https://stackoverflow.com/a/64665119/9548111
     link_text = " ".join(link_text.split())
     # Remove all the links
-    # https://stackoverflow.com/questions/53980097/removing-markup-links-in-text#comment130011845_53980235
     link_text = re.sub(r"\[(.+?)\]\(.+?\)", r"\1", link_text)
     # Remove the special characters
     link_path = re.sub("[^a-zA-Z0-9\s]+", "", link_text)
@@ -22,6 +20,7 @@ def get_table_of_content_entry(text: str) -> str:
 
     link_path = URL + '#' + link_path
     return f'{space}[{link_text}]({link_path})  '
+
 
 if __name__ == '__main__':
     with open('README.md', 'rb') as f:
@@ -44,10 +43,3 @@ if __name__ == '__main__':
     test = '\n'.join(lines)
     with open('README.md', "w", encoding="utf-8") as f:
         f.write(test)
-    print()
-
-    a = [1,2,3,4]
-    print(a[1: 3])
-    a[1: 3] = [6, 7]
-    print(a)
-
