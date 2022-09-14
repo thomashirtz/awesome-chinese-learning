@@ -96,7 +96,7 @@ If you want to search for very specific TV shows, you can take a look at the too
 The equivalent of youtube in China. However, in contrast to youtube, Netflix, ..., the platform does not have built-in subtitles. It is, therefore, less convenient to learn Chinese with this platform.
 
 ### [Netflix](https://www.netflix.com/browse)
-Netflix can be used to learn Chinese! Thanks to the hack explained [here]().
+Netflix can be used to learn Chinese! Thanks to the hack explained [here](https://github.com/thomashirtz/chinese-learning#netflix).
 
 ### [XuetangX](https://www.xuetangx.com/)
 The equivalent of Coursera in Chinese, you can use the Zhongwen + F11 Mode in order to have the possibility of a dictionary pop-up when watching classes.
