@@ -1,6 +1,12 @@
 # chinese-learning
 Repository to share resources and tips that can help when learning Chinese.
 
+## Table of content
+
+<!-- Beginning of the table of content --> 
+
+<!-- End of the table of content --> 
+
 ## Flashcards
 ### Application
 [Anki](https://apps.ankiweb.net/) is the default app for flashcards on android and windows.
