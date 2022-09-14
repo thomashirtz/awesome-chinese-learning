@@ -27,12 +27,10 @@ _Extra tip 1:_ The vocabularies can thereafter be downloaded and added to ANKI.
 
 _Extra tip 2:_ If you have some text that you want to analyze using the browser extension zhongwen, you can paste it in [awfice](https://htmlpreview.github.io/?https://github.com/zserge/awfice/blob/main/edit.html) .
 
-
-
 ## Dictionaries
 Two primary chinese-english dictionaries are popular:
-1. Pleco
-2. Hanping
+1. [Pleco](https://www.pleco.com/)
+2. [Hanping](https://hanpingchinese.com/)
 
 Both have a free version and a version where you have a one-time purchase to get more vocabulary (definitely worth it). Some comparisons exist on the internet. 
 
@@ -43,23 +41,23 @@ Both have a free version and a version where you have a one-time purchase to get
 
 ## Video Resources
 
-### Bilibili
+### [Bilibili](https://www.bilibili.com/)
 The equivalent of youtube in China. However, in contrast to youtube, Netflix, ..., the platform does not have built-in subtitles. It is, therefore, less convenient to learn Chinese with this platform.
 
-### Netflix
+### [Netflix](https://www.netflix.com/browse)
 Netflix can be used to learn Chinese! It is possible to make the dynamic lookup of subtitles work directly in the browser (at least in Mozilla). Two extensions are needed, as well as a little hack:
 1. Install [Zhongwen](https://github.com/cschiller/zhongwen)
 2. Install [Subfilter](https://github.com/met/subfilter)
 3. Go to the show or movie you want to watch, and change the language from the extension Subfilter to _Simplified Chinese_. (Obviously, the media do need to have Chinese subtitles available.)
 4. Press F11 to put it full screen (Zhongwen does not work full screen on Netflix).
 
-### XuetangX
+### [XuetangX](https://www.xuetangx.com/)
 The equivalent of Coursera in Chinese, you can use the Zhongwen + F11 Mode in order to have the possibility of a dictionary pop-up when watching classes.
 
 ### [Chinese Zero To Hero](https://chinesezerotohero.teachable.com/courses) 
 The platform contains many Chinese courses. It is not free, however, it works as a one-time purchase. Very clean and exceptionally well made. The classes are based on the books from BLCU.
 
-### Viki
+### [Viki](https://www.viki.com/)
 Shows and movies with a built-in lookup of the Chinese subtitles are available. It is extremely well made, however, the selection of shows having the feature was quite poor several years ago.
 
 ### Others
@@ -83,10 +81,15 @@ The chinese twitter.
 ### AudioBooks and Podcasts
 
 1. [Ximalaya (喜马拉雅)](https://www.ximalaya.com/)
-2. 
+2. [Lanren Tingshu (懒人听书)](https://www.lrts.me/)
+3. [QQ Dushu (QQ读书)](https://book.qq.com/)
+4. [Weixin Dushu (微信读书)](https://weread.qq.com/)
+
+Most of the books present in the websites/applications (even behind paywalls) that has just been listed are not accessible outside of China.
 
 ### Music
-
+1. [NetEase Cloud Music (网易云音乐)](https://www.ximalaya.com/)
+2. [QQ Music (QQ音乐)](https://music.qq.com/)
 
 ## Calligraphy & Writing
 
@@ -95,6 +98,9 @@ It is an excellent android application for learning stroke order as well as to l
 
 ### [书法字典](http://shufazidian.com/)  
 shufazidian is a website as well as a mini program that display the character selected in different style writing. It is extremely helpful when learning to do some calligraphy.
+
+### [Animated stroke order for Chinese characters](https://www.chineseconverter.com/en/convert/chinese-stroke-order-tool) (In Browser)
+Website that can show the stroke orders of the inputed characters.
 
 ## Miscellaneous
 ### Douban
