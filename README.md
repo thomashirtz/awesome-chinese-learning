@@ -29,7 +29,7 @@ Repository to share resources and tips that can help when learning Chinese.
   * [Music](https://github.com/thomashirtz/chinese-learning#music)  
 * [Calligraphy & Writing](https://github.com/thomashirtz/chinese-learning#calligraphy--writing)  
   * [How to write Chinese character (Android application)](https://github.com/thomashirtz/chinese-learning#how-to-write-chinese-character-android-application)  
-  * [书法字典](https://github.com/thomashirtz/chinese-learning#)  
+  * [书法字典](https://github.com/thomashirtz/chinese-learning#书法字典)  
   * [Animated stroke order for Chinese characters (In Browser)](https://github.com/thomashirtz/chinese-learning#animated-stroke-order-for-chinese-characters-in-browser)  
 * [Dictionaries](https://github.com/thomashirtz/chinese-learning#dictionaries)  
 * [Translators](https://github.com/thomashirtz/chinese-learning#translators)  

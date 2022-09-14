@@ -14,7 +14,7 @@ def get_table_of_content_entry(text: str) -> str:
     # Remove all the links
     link_text = re.sub(r"\[(.+?)\]\(.+?\)", r"\1", link_text)
     # Remove the special characters
-    link_path = re.sub("[^a-zA-Z0-9\s]+", "", link_text)
+    link_path = re.sub("[^a-zA-Z0-9\s\u4e00-\u9fff]+", "", link_text)
     # Add hyphens and transform to lowercase
     link_path = link_path.replace(' ', '-').lower()
 
@@ -26,7 +26,8 @@ if __name__ == '__main__':
     with open('README.md', 'rb') as f:
         raw_content = f.read()
 
-    lines = raw_content.decode().split('\n')
+    lines = raw_content.decode().replace('\r', '')
+    lines = lines.split('\n')
     beginning_index = lines.index('<!-- Beginning of the table of content --> ')
     end_index = lines.index('<!-- End of the table of content --> ')
 
