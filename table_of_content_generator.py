@@ -26,7 +26,7 @@ if __name__ == '__main__':
     with open('README.md', 'rb') as f:
         raw_content = f.read()
 
-    lines = raw_content.decode().split('\r\n')
+    lines = raw_content.decode().split('\n')
     beginning_index = lines.index('<!-- Beginning of the table of content --> ')
     end_index = lines.index('<!-- End of the table of content --> ')
 
