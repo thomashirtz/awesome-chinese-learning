@@ -37,11 +37,14 @@ Two primary chinese-english dictionaries are popular:
 Both have a free version and a version where you have a one-time purchase to get more vocabulary (definitely worth it). Some comparisons exist on the internet. 
 
 ## Translator
-1. Google translate: Best translator, not available in China.
-2. [Bing translator](https://www.bing.com/translator) : Works in china.
+1. [Google translate](https://translate.google.com/?sl=zh-CN): Best translator, not available in China.
+2. [Bing translator](https://www.bing.com/translator): Works in china.
 3. [Baidu translator](https://fanyi.baidu.com/#zh/en/)
 
 ## Video Resources
+
+### Bilibili
+The equivalent of youtube in China. However, in contrast to youtube, Netflix, ..., the platform does not have built-in subtitles. It is, therefore, less convenient to learn Chinese with this platform.
 
 ### Netflix
 Netflix can be used to learn Chinese! It is possible to make the dynamic lookup of subtitles work directly in the browser (at least in Mozilla). Two extensions are needed, as well as a little hack:
@@ -53,21 +56,18 @@ Netflix can be used to learn Chinese! It is possible to make the dynamic lookup 
 ### XuetangX
 The equivalent of Coursera in Chinese, you can use the Zhongwen + F11 Mode in order to have the possibility of a dictionary pop-up when watching classes.
 
-### Viki
-Shows and movies with a built-in lookup of the Chinese subtitles are available. It is extremely well made, however, the selection of shows having the feature was quite poor several years ago.
-
-### Bilibili
-The equivalent of youtube in China. However, in contrast to youtube, Netflix, ..., the platform does not have built-in subtitles. It is, therefore, less convenient to learn Chinese with this platform.
-
 ### [Chinese Zero To Hero](https://chinesezerotohero.teachable.com/courses) 
 The platform contains many Chinese courses. It is not free, however, it works as a one-time purchase. Very clean and exceptionally well made. The classes are based on the books from BLCU.
+
+### Viki
+Shows and movies with a built-in lookup of the Chinese subtitles are available. It is extremely well made, however, the selection of shows having the feature was quite poor several years ago.
 
 ### Others
 1. [Youku (优酷)](https://www.youku.com/)
 2. [iQIYI (爱奇艺)](https://www.iqiyi.com/)
 3. [MangoTV (芒果TV)](https://w.mgtv.com/) (It has, for example, 爸爸去哪儿)
 
-## Text Ressources
+## Text Resources
 
 ### [Zhihu](https://www.zhihu.com/hot)
 Website similar to Quora, where all the new trends are discussed, questions are asked, ...
@@ -77,6 +77,16 @@ Most popular news aggregator in China.
 
 ### [Weibo](https://weibo.com)
 The chinese twitter.
+
+## Audio Resources
+
+### AudioBooks and Podcasts
+
+1. [Ximalaya (喜马拉雅)](https://www.ximalaya.com/)
+2. 
+
+### Music
+
 
 ## Calligraphy & Writing
 
@@ -124,3 +134,11 @@ You need to put `%%SS` where the word from the subtitle will be in the URL querr
 ```
 https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%%SS
 ```
+
+### [Podcast addict](https://www.podcastaddict.com/)
+
+Excellent application on smartphone to listen to audiobook files.
+
+### Chinese pinyin input with non-QWERTY keyboards 
+
+[Stack overflow thread](https://superuser.com/questions/112847/chinese-ime-input-method-in-azerty-on-windows-google-ime) regarding this issue.
