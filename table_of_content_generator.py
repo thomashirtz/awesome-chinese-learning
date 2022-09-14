@@ -6,7 +6,7 @@ URL = 'https://github.com/thomashirtz/chinese-learning'
 
 def get_table_of_content_entry(text: str) -> str:
     level = text.count('#')
-    space = '&emsp;' * (level - 2)
+    space = '  ' * (level - 2) + '* '
     link_text = text.split('#')[-1][1:]
 
     # Remove extra spaces
