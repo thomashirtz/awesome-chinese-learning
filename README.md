@@ -36,15 +36,16 @@ Repository to share resources and tips that can help when learning Chinese.
     * [NetEase Cloud Music (网易云音乐)](https://github.com/thomashirtz/chinese-learning#netease-cloud-music-网易云音乐)  
     * [QQ Music (QQ音乐)](https://github.com/thomashirtz/chinese-learning#qq-music-qq音乐)  
 * [Calligraphy & Writing](https://github.com/thomashirtz/chinese-learning#calligraphy--writing)  
-  * [How to write Chinese character (Android application)](https://github.com/thomashirtz/chinese-learning#how-to-write-chinese-character-android-application)  
   * [Shufazidian (书法字典)](https://github.com/thomashirtz/chinese-learning#shufazidian-书法字典)  
+  * [How to write Chinese character (Android application)](https://github.com/thomashirtz/chinese-learning#how-to-write-chinese-character-android-application)  
   * [Animated stroke order for Chinese characters (In Browser)](https://github.com/thomashirtz/chinese-learning#animated-stroke-order-for-chinese-characters-in-browser)  
 * [Dictionaries](https://github.com/thomashirtz/chinese-learning#dictionaries)  
   * [Pleco](https://github.com/thomashirtz/chinese-learning#pleco)  
   * [Hanping](https://github.com/thomashirtz/chinese-learning#hanping)  
 * [Translators](https://github.com/thomashirtz/chinese-learning#translators)  
   * [Google translate](https://github.com/thomashirtz/chinese-learning#google-translate)  
-  * [Bing translator](https://github.com/thomashirtz/chinese-learning#bing-translator)
+  * [Bing translator](https://github.com/thomashirtz/chinese-learning#bing-translator)  
+  * [Baidu translator](https://github.com/thomashirtz/chinese-learning#baidu-translator)  
 * [Multimedia players](https://github.com/thomashirtz/chinese-learning#multimedia-players)  
   * [PotPlayer](https://github.com/thomashirtz/chinese-learning#potplayer)  
   * [Podcast addict](https://github.com/thomashirtz/chinese-learning#podcast-addict)  
@@ -53,6 +54,7 @@ Repository to share resources and tips that can help when learning Chinese.
   * [Chinese OCR](https://github.com/thomashirtz/chinese-learning#chinese-ocr)  
   * [Pinyin Converter](https://github.com/thomashirtz/chinese-learning#pinyin-converter)  
   * [Chinese pinyin input with non-QWERTY keyboards](https://github.com/thomashirtz/chinese-learning#chinese-pinyin-input-with-non-qwerty-keyboards)  
+* [Resource guides](https://github.com/thomashirtz/chinese-learning#resource-guides)  
 <!-- End of the table of content --> 
 
 ## Flashcards
@@ -160,11 +162,11 @@ Most of the books present in the websites/applications (even behind paywalls) th
 
 ## Calligraphy & Writing
 
-### [How to write Chinese character](https://play.google.com/store/apps/details?id=com.ansami.hkchinesechar&hl=en_US&gl=US) (Android application)  
-It is an excellent android application for learning how to write characters as well as stroke orders.
-
 ### [Shufazidian (书法字典)](http://shufazidian.com/)  
 Shufazidian is a website as well as a mini program that display the character selected in different style of writing. It is extremely helpful when learning to do some calligraphy.
+
+### [How to write Chinese character](https://play.google.com/store/apps/details?id=com.ansami.hkchinesechar&hl=en_US&gl=US) (Android application)  
+It is an excellent android application for learning how to write characters as well as stroke orders.
 
 ### [Animated stroke order for Chinese characters](https://www.chineseconverter.com/en/convert/chinese-stroke-order-tool) (In Browser)
 A website that can show the stroke orders of the inputed characters.
@@ -186,7 +188,7 @@ The best translator, not available in China.
 
 Works in China.
 
-### [Baidu translator](https://fanyi.baidu.com/#zh/en/)
+### [Baidu translator](https://fanyi.baidu.com)
 
 
 ## Multimedia players
@@ -226,3 +228,9 @@ It is a converter that transforms Chinese characters into pinyin. Such can be ve
 ### Chinese pinyin input with non-QWERTY keyboards 
 
 [Stack overflow thread](https://superuser.com/questions/112847/chinese-ime-input-method-in-azerty-on-windows-google-ime) regarding this issue.
+
+## Resource guides
+
+* [/r/ChineseLanguage](https://discord.gg/Hnd9Msy)
+* [chinese-guide](https://gitlab.com/tengutengu/chinese-guide)
+* [resource-guide](https://espaspw.github.io/Resource-Guide/#Mandarin)
