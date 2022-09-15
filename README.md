@@ -29,7 +29,7 @@ Repository to share resources and tips that can help when learning Chinese.
   * [Music](https://github.com/thomashirtz/chinese-learning#music)  
 * [Calligraphy & Writing](https://github.com/thomashirtz/chinese-learning#calligraphy--writing)  
   * [How to write Chinese character (Android application)](https://github.com/thomashirtz/chinese-learning#how-to-write-chinese-character-android-application)  
-  * [书法字典](https://github.com/thomashirtz/chinese-learning#书法字典)  
+  * [Shufazidian (书法字典)](https://github.com/thomashirtz/chinese-learning#shufazidian-书法字典)  
   * [Animated stroke order for Chinese characters (In Browser)](https://github.com/thomashirtz/chinese-learning#animated-stroke-order-for-chinese-characters-in-browser)  
 * [Dictionaries](https://github.com/thomashirtz/chinese-learning#dictionaries)  
 * [Translators](https://github.com/thomashirtz/chinese-learning#translators)  
@@ -50,11 +50,11 @@ Repository to share resources and tips that can help when learning Chinese.
 ### Decks
 Here are some decks worth noting:
 *  ["Best Anki Deck for HSK I've come across"](https://www.reddit.com/r/ChineseLanguage/comments/7mjmjc/best_anki_deck_for_hsk_ive_come_across/): The deck that I use extensively. It is extremely good and accompanied me throughout my entire learning journey.
-* [Chinese Radicals](https://ankiweb.net/shared/info/842457706): Very good to have a grasp of all the radical in order to understand better the chinese characters.
-* [Chinese Grammar Study Set](https://ankiweb.net/shared/info/782551504): Not a huge fan of it, I didn't use it much, however I can understand why people can like it.
-* Your own deck! The best way to learn vocabulary is to actually learn words that you actually see in your life. I generally create them from my Zhongwen word list.
+* [Chinese Radicals](https://ankiweb.net/shared/info/842457706): Very good to have a grasp of all the radicals in order to understand better the Chinese characters.
+* [Chinese Grammar Study Set](https://ankiweb.net/shared/info/782551504): Not a huge fan of it. I didn't use it much; however, I can understand why people can like it.
+* Your own deck! The best way to learn vocabulary is to learn words that you actually see in your life. I generally create them from my Zhongwen word list.
 
-Many other are avalaiable on the [Anki website](https://ankiweb.net/shared/decks/chinese) and online more generally
+Many others are available on the [Anki website](https://ankiweb.net/shared/decks/chinese) and online more generally
 
 ### Settings  
 Training vocabulary with flashcards will take quite some time. It is, therefore, _strongly_ recommended to finely tune the settings of the deck before using it extensively. 
@@ -72,10 +72,10 @@ Zhongwen is a Chinese pop-up dictionary for browsers (Chrome, Firefox, ...). It 
 It is also possible to add the hovered vocabulary to a list by pressing "R". The list can be accessed using "Alt + W".
 
 ### Anki
-The vocabularies can be downloaded and added to ANKI.
+The vocabulary list can be downloaded and added to ANKI.
 
 ### Awfice
-If you have some text that you want to analyze using the browser extension zhongwen, you can paste it in [awfice](https://htmlpreview.github.io/?https://github.com/zserge/awfice/blob/main/edit.html) .
+If you have some text that you want to analyze using the browser extension zhongwen, you can paste it into [awfice](https://htmlpreview.github.io/?https://github.com/zserge/awfice/blob/main/edit.html).
 
 ### Netflix
 It is possible to make the dynamic lookup of subtitles work directly in the browser (at least in Mozilla). Two extensions are needed, as well as a little hack:
@@ -99,7 +99,7 @@ Example of a free book : [三体](https://www.shizongzui.cc/santi/),
 If you want to search for very specific TV shows, you can take a look at the tool I wrote : [douban-crawler](https://github.com/thomashirtz/douban-crawler)
 
 ### [Bilibili](https://www.bilibili.com/)
-The equivalent of youtube in China. However, in contrast to youtube, Netflix, ..., the platform does not have built-in subtitles. It is, therefore, less convenient to learn Chinese with this platform.
+The equivalent of youtube in China. However, in contrast to Youtube, Netflix, ..., the platform does not have built-in subtitles. It is, therefore, less convenient to learn Chinese with this platform.
 
 ### [Netflix](https://www.netflix.com/browse)
 Netflix can be used to learn Chinese! Thanks to the hack explained [here](https://github.com/thomashirtz/chinese-learning#netflix).
@@ -108,10 +108,10 @@ Netflix can be used to learn Chinese! Thanks to the hack explained [here](https:
 The equivalent of Coursera in Chinese, you can use the Zhongwen + F11 Mode in order to have the possibility of a dictionary pop-up when watching classes.
 
 ### [Chinese Zero To Hero](https://chinesezerotohero.teachable.com/courses) 
-The platform contains many Chinese courses. It is not free, however, it works as a one-time purchase. Very clean and exceptionally well made. The classes are based on the books from BLCU.
+The platform contains many Chinese courses. It is not free; however, it works as a one-time purchase. Very clean and exceptionally well made. The classes are based on the books from BLCU.
 
 ### [Viki](https://www.viki.com/)
-Shows and movies with a built-in lookup of the Chinese subtitles are available. It is extremely well made, however, the selection of shows having the feature was quite poor several years ago.
+Shows and movies with a built-in lookup of the Chinese subtitles are available. It is extremely well made; however, the selection of shows having the feature was quite poor several years ago.
 
 ### Others
 1. [Youku (优酷)](https://www.youku.com/)
@@ -147,13 +147,13 @@ Most of the books present in the websites/applications (even behind paywalls) th
 ## Calligraphy & Writing
 
 ### [How to write Chinese character](https://play.google.com/store/apps/details?id=com.ansami.hkchinesechar&hl=en_US&gl=US) (Android application)  
-It is an excellent android application for learning stroke order as well as to learn how to write characters.
+It is an excellent android application for learning how to write characters as well as stroke orders.
 
-### [书法字典](http://shufazidian.com/)  
-shufazidian is a website as well as a mini program that display the character selected in different style writing. It is extremely helpful when learning to do some calligraphy.
+### [Shufazidian (书法字典)](http://shufazidian.com/)  
+Shufazidian is a website as well as a mini program that display the character selected in different style of writing. It is extremely helpful when learning to do some calligraphy.
 
 ### [Animated stroke order for Chinese characters](https://www.chineseconverter.com/en/convert/chinese-stroke-order-tool) (In Browser)
-Website that can show the stroke orders of the inputed characters.
+A website that can show the stroke orders of the inputed characters.
 
 ## Dictionaries
 Two primary chinese-english dictionaries are popular:
@@ -175,14 +175,14 @@ This can be set in :
 ```
 Preferences => Subtitles => Research by word 
 ```
-You need to put `%%SS` where the word from the subtitle will be in the URL querry. I generally redirect the query to MDBG:
+You need to put `%%SS` where the word from the subtitle will be in the URL query. I generally redirect the query to MDBG:
 ```
 https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%%SS
 ```
 
 ### [Podcast addict](https://www.podcastaddict.com/)
 
-Excellent application on smartphone to listen to audiobook files.
+Excellent application on smartphones to listen to audiobook files.
 
 
 
