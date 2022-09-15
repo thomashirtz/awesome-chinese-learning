@@ -5,13 +5,13 @@ Repository to share resources and tips that can help when learning Chinese.
 
 <!-- Beginning of the table of content --> 
 * [Flashcards](https://github.com/thomashirtz/chinese-learning#flashcards)  
-  * [Deck](https://github.com/thomashirtz/chinese-learning#deck)  
+  * [Decks](https://github.com/thomashirtz/chinese-learning#decks)  
   * [Settings](https://github.com/thomashirtz/chinese-learning#settings)  
 * [Zhongwen (Browser extension)](https://github.com/thomashirtz/chinese-learning#zhongwen-browser-extension)  
   * [Anki](https://github.com/thomashirtz/chinese-learning#anki)  
   * [Awfice](https://github.com/thomashirtz/chinese-learning#awfice)  
   * [Netflix](https://github.com/thomashirtz/chinese-learning#netflix)  
-  * [Pop-up dictionary on documents](https://github.com/thomashirtz/chinese-learning#popup-dictionary-on-documents)  
+  * [Pop-up dictionary on documents](https://github.com/thomashirtz/chinese-learning#pop-up-dictionary-on-documents)  
   * [Novels in HTML](https://github.com/thomashirtz/chinese-learning#novels-in-html)  
 * [Video Resources](https://github.com/thomashirtz/chinese-learning#video-resources)  
   * [Bilibili](https://github.com/thomashirtz/chinese-learning#bilibili)  
@@ -37,18 +37,24 @@ Repository to share resources and tips that can help when learning Chinese.
   * [PotPlayer](https://github.com/thomashirtz/chinese-learning#potplayer)  
   * [Podcast addict](https://github.com/thomashirtz/chinese-learning#podcast-addict)  
 * [Miscellaneous](https://github.com/thomashirtz/chinese-learning#miscellaneous)  
-  * [chinese-shadowing](https://github.com/thomashirtz/chinese-learning#chineseshadowing)  
+  * [chinese-shadowing](https://github.com/thomashirtz/chinese-learning#chinese-shadowing)  
   * [Chinese OCR](https://github.com/thomashirtz/chinese-learning#chinese-ocr)  
   * [Pinyin Converter](https://github.com/thomashirtz/chinese-learning#pinyin-converter)  
-  * [Chinese pinyin input with non-QWERTY keyboards](https://github.com/thomashirtz/chinese-learning#chinese-pinyin-input-with-nonqwerty-keyboards)  
+  * [Chinese pinyin input with non-QWERTY keyboards](https://github.com/thomashirtz/chinese-learning#chinese-pinyin-input-with-non-qwerty-keyboards)  
 <!-- End of the table of content --> 
 
 ## Flashcards
 
 [Anki](https://apps.ankiweb.net/) is the default app for flashcards on android and windows.
 
-### Deck  
-The deck that I use extensively is the one I found on Reddit: ["Best Anki Deck for HSK I've come across"](https://www.reddit.com/r/ChineseLanguage/comments/7mjmjc/best_anki_deck_for_hsk_ive_come_across/)
+### Decks
+Here are some decks worth noting:
+*  ["Best Anki Deck for HSK I've come across"](https://www.reddit.com/r/ChineseLanguage/comments/7mjmjc/best_anki_deck_for_hsk_ive_come_across/): The deck that I use extensively. It is extremely good and accompanied me throughout my entire learning journey.
+* [Chinese Radicals](https://ankiweb.net/shared/info/842457706): Very good to have a grasp of all the radical in order to understand better the chinese characters.
+* [Chinese Grammar Study Set](https://ankiweb.net/shared/info/782551504): Not a huge fan of it, I didn't use it much, however I can understand why people can like it.
+* Your own deck! The best way to learn vocabulary is to actually learn words that you actually see in your life. I generally create them from my Zhongwen word list.
+
+Many other are avalaiable on the [Anki website](https://ankiweb.net/shared/decks/chinese) and online more generally
 
 ### Settings  
 Training vocabulary with flashcards will take quite some time. It is, therefore, _strongly_ recommended to finely tune the settings of the deck before using it extensively. 
