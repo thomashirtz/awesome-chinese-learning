@@ -14,25 +14,37 @@ Repository to share resources and tips that can help when learning Chinese.
   * [Pop-up dictionary on documents](https://github.com/thomashirtz/chinese-learning#pop-up-dictionary-on-documents)  
   * [Novels in HTML](https://github.com/thomashirtz/chinese-learning#novels-in-html)  
 * [Video Resources](https://github.com/thomashirtz/chinese-learning#video-resources)  
-  * [Bilibili](https://github.com/thomashirtz/chinese-learning#bilibili)  
+  * [Bilibili (哔哩哔哩)](https://github.com/thomashirtz/chinese-learning#bilibili-哔哩哔哩)  
+  * [Youku (优酷)](https://github.com/thomashirtz/chinese-learning#youku-优酷)  
+  * [iQIYI (爱奇艺)](https://github.com/thomashirtz/chinese-learning#iqiyi-爱奇艺)  
+  * [MangoTV (芒果TV)](https://github.com/thomashirtz/chinese-learning#mangotv-芒果tv)  
+  * [XuetangX (学堂在线)](https://github.com/thomashirtz/chinese-learning#xuetangx-学堂在线)  
   * [Netflix](https://github.com/thomashirtz/chinese-learning#netflix)  
-  * [XuetangX](https://github.com/thomashirtz/chinese-learning#xuetangx)  
   * [Chinese Zero To Hero](https://github.com/thomashirtz/chinese-learning#chinese-zero-to-hero)  
   * [Viki](https://github.com/thomashirtz/chinese-learning#viki)  
-  * [Others](https://github.com/thomashirtz/chinese-learning#others)  
 * [Text Resources](https://github.com/thomashirtz/chinese-learning#text-resources)  
   * [Zhihu](https://github.com/thomashirtz/chinese-learning#zhihu)  
   * [Toutiao](https://github.com/thomashirtz/chinese-learning#toutiao)  
   * [Weibo](https://github.com/thomashirtz/chinese-learning#weibo)  
 * [Audio Resources](https://github.com/thomashirtz/chinese-learning#audio-resources)  
   * [AudioBooks and Podcasts](https://github.com/thomashirtz/chinese-learning#audiobooks-and-podcasts)  
+    * [Ximalaya (喜马拉雅)](https://github.com/thomashirtz/chinese-learning#ximalaya-喜马拉雅)  
+    * [Lanren Tingshu (懒人听书)](https://github.com/thomashirtz/chinese-learning#lanren-tingshu-懒人听书)  
+    * [QQ Dushu (QQ读书)](https://github.com/thomashirtz/chinese-learning#qq-dushu-qq读书)  
+    * [Weixin Dushu (微信读书)](https://github.com/thomashirtz/chinese-learning#weixin-dushu-微信读书)  
   * [Music](https://github.com/thomashirtz/chinese-learning#music)  
+    * [NetEase Cloud Music (网易云音乐)](https://github.com/thomashirtz/chinese-learning#netease-cloud-music-网易云音乐)  
+    * [QQ Music (QQ音乐)](https://github.com/thomashirtz/chinese-learning#qq-music-qq音乐)  
 * [Calligraphy & Writing](https://github.com/thomashirtz/chinese-learning#calligraphy--writing)  
   * [How to write Chinese character (Android application)](https://github.com/thomashirtz/chinese-learning#how-to-write-chinese-character-android-application)  
   * [Shufazidian (书法字典)](https://github.com/thomashirtz/chinese-learning#shufazidian-书法字典)  
   * [Animated stroke order for Chinese characters (In Browser)](https://github.com/thomashirtz/chinese-learning#animated-stroke-order-for-chinese-characters-in-browser)  
 * [Dictionaries](https://github.com/thomashirtz/chinese-learning#dictionaries)  
+  * [Pleco](https://github.com/thomashirtz/chinese-learning#pleco)  
+  * [Hanping](https://github.com/thomashirtz/chinese-learning#hanping)  
 * [Translators](https://github.com/thomashirtz/chinese-learning#translators)  
+  * [Google translate](https://github.com/thomashirtz/chinese-learning#google-translate)  
+  * [Bing translator](https://github.com/thomashirtz/chinese-learning#bing-translator)
 * [Multimedia players](https://github.com/thomashirtz/chinese-learning#multimedia-players)  
   * [PotPlayer](https://github.com/thomashirtz/chinese-learning#potplayer)  
   * [Podcast addict](https://github.com/thomashirtz/chinese-learning#podcast-addict)  
@@ -98,25 +110,27 @@ Example of a free book : [三体](https://www.shizongzui.cc/santi/),
 [Douban](https://movie.douban.com/tv/#!type=tv&tag=%E5%9B%BD%E4%BA%A7%E5%89%A7&sort=recommend&page_limit=20&page_start=0) is the main website to watch the score of different movies/TV shows. It is the equivalent of IMDB.  
 If you want to search for very specific TV shows, you can take a look at the tool I wrote : [douban-crawler](https://github.com/thomashirtz/douban-crawler)
 
-### [Bilibili](https://www.bilibili.com/)
+### [Bilibili (哔哩哔哩)](https://www.bilibili.com/)
 The equivalent of youtube in China. However, in contrast to Youtube, Netflix, ..., the platform does not have built-in subtitles. It is, therefore, less convenient to learn Chinese with this platform.
+
+### [Youku (优酷)](https://www.youku.com/)
+
+### [iQIYI (爱奇艺)](https://www.iqiyi.com/)
+
+### [MangoTV (芒果TV)](https://w.mgtv.com/) 
+(It has, for example, 爸爸去哪儿)
+
+### [XuetangX (学堂在线)](https://www.xuetangx.com/)
+The equivalent of Coursera in Chinese, you can use the Zhongwen + F11 Mode in order to have the possibility of a dictionary pop-up when watching classes.
 
 ### [Netflix](https://www.netflix.com/browse)
 Netflix can be used to learn Chinese! Thanks to the hack explained [here](https://github.com/thomashirtz/chinese-learning#netflix).
-
-### [XuetangX](https://www.xuetangx.com/)
-The equivalent of Coursera in Chinese, you can use the Zhongwen + F11 Mode in order to have the possibility of a dictionary pop-up when watching classes.
 
 ### [Chinese Zero To Hero](https://chinesezerotohero.teachable.com/courses) 
 The platform contains many Chinese courses. It is not free; however, it works as a one-time purchase. Very clean and exceptionally well made. The classes are based on the books from BLCU.
 
 ### [Viki](https://www.viki.com/)
 Shows and movies with a built-in lookup of the Chinese subtitles are available. It is extremely well made; however, the selection of shows having the feature was quite poor several years ago.
-
-### Others
-1. [Youku (优酷)](https://www.youku.com/)
-2. [iQIYI (爱奇艺)](https://www.iqiyi.com/)
-3. [MangoTV (芒果TV)](https://w.mgtv.com/) (It has, for example, 爸爸去哪儿)
 
 ## Text Resources
 
@@ -133,16 +147,16 @@ The chinese twitter.
 
 ### AudioBooks and Podcasts
 
-1. [Ximalaya (喜马拉雅)](https://www.ximalaya.com/)
-2. [Lanren Tingshu (懒人听书)](https://www.lrts.me/)
-3. [QQ Dushu (QQ读书)](https://book.qq.com/)
-4. [Weixin Dushu (微信读书)](https://weread.qq.com/)
+#### [Ximalaya (喜马拉雅)](https://www.ximalaya.com/)
+#### [Lanren Tingshu (懒人听书)](https://www.lrts.me/)
+#### [QQ Dushu (QQ读书)](https://book.qq.com/)
+#### [Weixin Dushu (微信读书)](https://weread.qq.com/)
 
 Most of the books present in the websites/applications (even behind paywalls) that has just been listed are not accessible outside of China.
 
 ### Music
-1. [NetEase Cloud Music (网易云音乐)](https://www.ximalaya.com/)
-2. [QQ Music (QQ音乐)](https://music.qq.com/)
+#### [NetEase Cloud Music (网易云音乐)](https://www.ximalaya.com/)
+#### [QQ Music (QQ音乐)](https://music.qq.com/)
 
 ## Calligraphy & Writing
 
@@ -156,16 +170,24 @@ Shufazidian is a website as well as a mini program that display the character se
 A website that can show the stroke orders of the inputed characters.
 
 ## Dictionaries
-Two primary chinese-english dictionaries are popular:
-1. [Pleco](https://www.pleco.com/)
-2. [Hanping](https://hanpingchinese.com/)
+Two primary chinese-english dictionaries are popular. Both have a free version, and a version where you have a one-time purchase to get more vocabulary (definitely worth it). Some comparisons exist on the internet. 
 
-Both have a free version and a version where you have a one-time purchase to get more vocabulary (definitely worth it). Some comparisons exist on the internet. 
+###  [Pleco](https://www.pleco.com/)
+
+###  [Hanping](https://hanpingchinese.com/)
 
 ## Translators
-1. [Google translate](https://translate.google.com/?sl=zh-CN): Best translator, not available in China.
-2. [Bing translator](https://www.bing.com/translator): Works in china.
-3. [Baidu translator](https://fanyi.baidu.com/#zh/en/)
+
+### [Google translate](https://translate.google.com/?sl=zh-CN)
+
+The best translator, not available in China.
+
+### [Bing translator](https://www.bing.com/translator)
+
+Works in China.
+
+### [Baidu translator](https://fanyi.baidu.com/#zh/en/)
+
 
 ## Multimedia players
 
