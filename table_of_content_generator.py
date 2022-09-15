@@ -14,7 +14,7 @@ def get_table_of_content_entry(text: str) -> str:
     # Remove all the links
     link_text = re.sub(r"\[(.+?)\]\(.+?\)", r"\1", link_text)
     # Remove the special characters
-    link_path = re.sub("[^a-zA-Z0-9\s\u4e00-\u9fff]+", "", link_text)
+    link_path = re.sub("[^a-zA-Z0-9\s\u4e00-\u9fff\-]+", "", link_text)
     # Add hyphens and transform to lowercase
     link_path = link_path.replace(' ', '-').lower()
 
