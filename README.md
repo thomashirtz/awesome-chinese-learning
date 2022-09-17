@@ -210,9 +210,7 @@ https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%%SS
 
 ### [Podcast addict](https://www.podcastaddict.com/)
 
-Excellent application on smartphones to listen to audiobook files.
-
-
+Excellent smartphone application to listen to audiobook files. You can easily load files from your local storage, do +/- 20 seconds, and set sleep timers.
 
 ## Miscellaneous
 
