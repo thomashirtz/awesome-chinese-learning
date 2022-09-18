@@ -80,6 +80,31 @@ Training vocabulary with flashcards will take quite some time. It is, therefore,
 </p>
 
 
+<details>
+ 
+<summary>Here is my deck setting (it is tailored made and should be tuned at your liking)</summary>
+ 
+```
+ # Daily Limits
+ New cards/day = 5
+ Maximum reviews/day = 100
+ 
+ # New Cards
+ Learning steps = 1m 10m 1d 6d
+ Graduating interval = 7
+ Easy interval = 10
+ Insertion order = Random
+ 
+ # Lapses
+ Relearning steps = 10m 20m
+ Minimum interval = 2
+ Leech threshold = 5
+ Leech action = Tag Only
+```
+ 
+</details>
+
+
 ## [Zhongwen](https://github.com/cschiller/zhongwen) (Browser extension)
 Zhongwen is a Chinese pop-up dictionary for browsers (Chrome, Firefox, ...). It is useful to get the translation of specific words on a page by hovering over the word with the mouse.
 
