@@ -161,6 +161,9 @@ A lot of free ebooks, podcast and else. It is one of the most popular applicatio
 Most of the books present in the websites/applications (even behind paywalls) that has just been listed are not accessible outside of China. I tried to subscribe to most of them and couldn't have access to the popular book from France (I did try using the VPN of my school to pretend that I was in China and it didn't work either).
 
 ### Music
+
+The two following platforms are great to listen to Chinese songs and songs in general. The subscription is quite inexpensive in comparison to services such as Deezer or Spotify.
+
 #### [NetEase Cloud Music (网易云音乐)](https://www.ximalaya.com/)
 #### [QQ Music (QQ音乐)](https://music.qq.com/)
 
