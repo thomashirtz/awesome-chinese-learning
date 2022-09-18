@@ -72,14 +72,9 @@ Here are some decks worth noting:
 Many others are available on the [Anki website](https://ankiweb.net/shared/decks/chinese) and online more generally
 
 ### Settings  
-Training vocabulary with flashcards will take quite some time. It is, therefore, _strongly_ recommended to finely tune the settings of the deck before using it extensively. 
-
-<p align="center">
- <a target="_blank" href="https://youtu.be/1XaJjbCSXT0">
-  <img src="https://i.ytimg.com/vi/1XaJjbCSXT0/maxresdefault.jpg" width="300"/>
- </a>
-</p>
-
+Training vocabulary with flashcards will take quite some time. It is, therefore, _strongly_ recommended to finely tune the settings of the deck before using it extensively. Suggestions of guides:
+* [Guide to Anki Intervals and Learning Steps](https://youtu.be/1XaJjbCSXT0)
+* [Other guides](https://www.youtube.com/results?search_query=anki+guide)
 
 <details>
  
