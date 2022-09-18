@@ -101,6 +101,14 @@ Training vocabulary with flashcards will take quite some time. It is, therefore,
  Minimum interval = 2
  Leech threshold = 5
  Leech action = Tag Only
+ 
+ # Advanced
+ Maximum interval = 365
+ Starting ease = 2.50
+ Easy bonus = 1.30
+ Interval modifier = 1.10
+ Hard interval = 1.20
+ New interval = 0.80
 ```
  
 </details>
