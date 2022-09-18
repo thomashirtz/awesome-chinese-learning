@@ -7,6 +7,7 @@ Repository to share resources and tips that can help when learning Chinese.
 * [Flashcards](https://github.com/thomashirtz/chinese-learning#flashcards)  
   * [Decks](https://github.com/thomashirtz/chinese-learning#decks)  
   * [Settings](https://github.com/thomashirtz/chinese-learning#settings)  
+  * [Add-ons](https://github.com/thomashirtz/chinese-learning#add-ons)  
 * [Zhongwen (Browser extension)](https://github.com/thomashirtz/chinese-learning#zhongwen-browser-extension)  
   * [Anki](https://github.com/thomashirtz/chinese-learning#anki)  
   * [Awfice](https://github.com/thomashirtz/chinese-learning#awfice)  
