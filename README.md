@@ -104,6 +104,13 @@ Training vocabulary with flashcards will take quite some time. It is, therefore,
  
 </details>
 
+### Add-ons
+
+Here is the list of useful Anki add-ons:
+* [Reset Ease](https://ankiweb.net/shared/info/947935257): Extension made in order to avoid the [Ease Hell](https://www.youtube.com/watch?v=roR8S9zjUh8).
+* [Review Heatmap](https://ankiweb.net/shared/info/1771074083): Extension to help you visualize past and future review activity.
+
+Other add-ons can be found on [this](https://ankiweb.net/shared/addons/2.1) page.
 
 ## [Zhongwen](https://github.com/cschiller/zhongwen) (Browser extension)
 Zhongwen is a Chinese pop-up dictionary for browsers (Chrome, Firefox, ...). It is useful to get the translation of specific words on a page by hovering over the word with the mouse.
