@@ -1,5 +1,6 @@
 # chinese-learning
-Repository to share resources and tips that can help when learning Chinese.
+Repository to share resources and tips that can help when learning Chinese.  
+If you have suggestions please feel free to submit an issue or a pull request :)
 
 ## Table of content
 
