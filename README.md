@@ -55,7 +55,6 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [/r/ChineseLanguage](https://github.com/thomashirtz/chinese-learning#rchineselanguage)  
   * [中法中法 - Chinois et Francais](https://github.com/thomashirtz/chinese-learning#中法中法---chinois-et-francais)  
   * [中法中法 - Chinese-English Language Exchange](https://github.com/thomashirtz/chinese-learning#中法中法---chinese-english-language-exchange)  
-  * [/r/ChineseLanguage](https://github.com/thomashirtz/chinese-learning#rchineselanguage)  
   * [italki](https://github.com/thomashirtz/chinese-learning#italki)  
 * [Miscellaneous](https://github.com/thomashirtz/chinese-learning#miscellaneous)  
   * [chinese-shadowing](https://github.com/thomashirtz/chinese-learning#chinese-shadowing)  
@@ -265,8 +264,6 @@ Excellent smartphone application to listen to audiobook files. You can easily lo
 ### 中法中法 - Chinois et Francais
 
 ### 中法中法 - Chinese-English Language Exchange
-
-### /r/ChineseLanguage
 
 ### italki
 
