@@ -51,6 +51,12 @@ If you have suggestions please feel free to submit an issue or a pull request :)
 * [Multimedia players](https://github.com/thomashirtz/chinese-learning#multimedia-players)  
   * [PotPlayer](https://github.com/thomashirtz/chinese-learning#potplayer)  
   * [Podcast addict](https://github.com/thomashirtz/chinese-learning#podcast-addict)  
+* [Communities, Language Buddies & Finding Teachers](https://github.com/thomashirtz/chinese-learning#communities-language-buddies--finding-teachers)  
+  * [/r/ChineseLanguage](https://github.com/thomashirtz/chinese-learning#rchineselanguage)  
+  * [中法中法 - Chinois et Francais](https://github.com/thomashirtz/chinese-learning#中法中法---chinois-et-francais)  
+  * [中法中法 - Chinese-English Language Exchange](https://github.com/thomashirtz/chinese-learning#中法中法---chinese-english-language-exchange)  
+  * [/r/ChineseLanguage](https://github.com/thomashirtz/chinese-learning#rchineselanguage)  
+  * [italki](https://github.com/thomashirtz/chinese-learning#italki)  
 * [Miscellaneous](https://github.com/thomashirtz/chinese-learning#miscellaneous)  
   * [chinese-shadowing](https://github.com/thomashirtz/chinese-learning#chinese-shadowing)  
   * [Chinese OCR](https://github.com/thomashirtz/chinese-learning#chinese-ocr)  
@@ -251,6 +257,18 @@ https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%%SS
 ### [Podcast addict](https://www.podcastaddict.com/)
 
 Excellent smartphone application to listen to audiobook files. You can easily load files from your local storage, do +/- 20 seconds, and set sleep timers.
+
+## Communities, Language Buddies & Finding Teachers
+
+### /r/ChineseLanguage
+
+### 中法中法 - Chinois et Francais
+
+### 中法中法 - Chinese-English Language Exchange
+
+### /r/ChineseLanguage
+
+### italki
 
 ## Miscellaneous
 
