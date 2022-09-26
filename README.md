@@ -57,11 +57,14 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [中英交流 - Chinese-English Language Exchange](https://github.com/thomashirtz/chinese-learning#中英交流---chinese-english-language-exchange)  
   * [italki](https://github.com/thomashirtz/chinese-learning#italki)  
   * [The Language Exchange Network](https://github.com/thomashirtz/chinese-learning#the-language-exchange-network)  
+* [Input Method (IME)](https://github.com/thomashirtz/chinese-learning#input-method-ime)  
+  * [Default IME with non-QWERTY keyboards (Windows)](https://github.com/thomashirtz/chinese-learning#default-ime-with-non-qwerty-keyboards-windows)  
+  * [Sogou (Windows)](https://github.com/thomashirtz/chinese-learning#sogou-windows)  
+  * [Gboard (Android)](https://github.com/thomashirtz/chinese-learning#gboard-android)  
 * [Miscellaneous](https://github.com/thomashirtz/chinese-learning#miscellaneous)  
   * [chinese-shadowing](https://github.com/thomashirtz/chinese-learning#chinese-shadowing)  
   * [Chinese OCR](https://github.com/thomashirtz/chinese-learning#chinese-ocr)  
   * [Pinyin Converter](https://github.com/thomashirtz/chinese-learning#pinyin-converter)  
-  * [Chinese pinyin input with non-QWERTY keyboards](https://github.com/thomashirtz/chinese-learning#chinese-pinyin-input-with-non-qwerty-keyboards)  
 * [Resource guides](https://github.com/thomashirtz/chinese-learning#resource-guides)  
 <!-- End of the table of content --> 
 
@@ -270,6 +273,16 @@ Excellent smartphone application to listen to audiobook files. You can easily lo
 
 ### The Language Exchange Network
 
+## Input Method (IME)
+
+### Default IME with non-QWERTY keyboards (Windows)
+
+[Stack overflow thread](https://superuser.com/questions/112847/chinese-ime-input-method-in-azerty-on-windows-google-ime) regarding this issue.
+
+### Sogou (Windows)
+
+### Gboard (Android)
+
 ## Miscellaneous
 
 ### [chinese-shadowing](https://github.com/thomashirtz/chinese-shadowing)
@@ -285,9 +298,6 @@ It is a converter that transforms Chinese characters into pinyin. Such can be ve
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
 
-### Chinese pinyin input with non-QWERTY keyboards 
-
-[Stack overflow thread](https://superuser.com/questions/112847/chinese-ime-input-method-in-azerty-on-windows-google-ime) regarding this issue.
 
 ## Resource guides
 
