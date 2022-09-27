@@ -263,7 +263,9 @@ Excellent smartphone application to listen to audiobook files. You can easily lo
 
 ## Communities, Language Buddies & Finding Teachers
 
-### /r/ChineseLanguage
+### /r/ChineseLanguage (Reddit & Discord)
+
+Superb community to find language partner, and ask all the questions related to the language.
 
 ### 中法中法 - Chinois et Francais
 
