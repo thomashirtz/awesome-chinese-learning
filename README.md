@@ -271,7 +271,9 @@ Superb community to find language partner, and ask all the questions related to 
 
 ### 中英交流 - Chinese-English Language Exchange
 
-### italki
+### [italki](https://www.italki.com/en)
+
+Online language platform to find teachers for 1-on-1 tutoring. I did not personnally used it, but I heard good things about it.
 
 ### The Language Exchange Network
 
