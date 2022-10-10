@@ -267,9 +267,9 @@ Excellent smartphone application to listen to audiobook files. You can easily lo
 
 Superb community to find language partner, and ask all the questions related to the language.
 
-### [中法中法 - Chinois et Francais (Discord)](https://discord.com/channels/463685445176524820/814456643780870176/814470496011419680)
+### 中法中法 - Chinois et Francais ([Discord](https://discord.com/channels/463685445176524820/814456643780870176/814470496011419680))
 
-### 中英交流 - Chinese-English Language Exchange (Discord)
+### 中英交流 - Chinese-English Language Exchange ([Discord](https://discord.com/invite/c-e))
 
 ### [italki](https://www.italki.com/en)
 
