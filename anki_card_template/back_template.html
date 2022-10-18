@@ -1,0 +1,35 @@
+<script>
+	function toggleVisibility(className) {
+		var elements = document.getElementsByClassName(className);
+		for (var i = 0; i < elements.length; i++) {
+			if (elements[i].style.display == "block") {
+				elements[i].style.display = "none";
+			} else {
+				elements[i].style.display = "block";
+			}
+		}
+	}
+</script>
+
+<div class=hanzi>{{Traditional}}<br></div>
+<span style="font-size: 25pt;color:grey">{{Simplified}}<br></span>
+<span style="font-family:SimSun; font-size: 22px; color: #B80000; ">{{Homograph}}</span>
+<div class=pinyin>{{Pinyin.1}}</div>
+<div class=english>{{Meaning}}</div>
+<div class=description>{{Part of speech}}</div>
+<hr>
+<div class=sentenceTraditional>{{SentenceTraditional}}</div>
+<div class=sentence>{{SentenceSimplified}}</div>
+<br><div class=pinyinSen>{{SentencePinyin.1}}</div>
+<div class=meaningSent>{{SentenceMeaning}}</div>
+<br>
+{{SentenceImage}}
+<br>
+
+<div class=bottomcontrols>
+<div class=controlPleco><a href="plecoapi://x-callback-url/s?q={{Simplified}}&mode=df&hw={{Simplified}}&py={{Pinyin.1}}&sec=dict&x-source=AnkiDroid"> &nbsp&nbsp&nbsp&nbspWord&nbsp</a></div>
+<div class=controlSoundWord>{{Audio}}</div>
+<div class=controlHide onclick="toggleVisibility('pinyinSen')">Unhide</div>
+<div class=controlSoundSentence>{{SentenceAudio}}</div>
+<div class=controlPleco><a href="plecoapi://x-callback-url/s?q={{SentenceSimplified}}">Sentence&nbsp</a></div>
+</div>

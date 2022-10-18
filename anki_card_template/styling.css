@@ -1,0 +1,18 @@
+.card {font-family: arial; font-size: 10px; text-align: left; #222222;  background-color: #fdf6e3;}
+.hanzi {font-family: Kaiti;  font-size: 78px;}
+.sentence{font-family: SimSun; font-size:24px; text-align:left; ; color:grey}
+.sentenceTraditional{font-family: SimSun; font-size:24px; text-align:left}
+.pinyin {font-family: Gentium Plus; font-size: 22px; color: #005500;}
+.pinyinSen {font-family: Gentium Plus; font-size: 20px; color: #005500; text-align:left; display: none}
+.english{font-family: Georgia; font-size: 16px;}
+.meaningSent{font-family: Georgia; font-size: 16px;  text-align:left}
+.description{font-family: Georgia; font-size: 16px; color: #575757;}
+a{color: inherit ; text-decoration: none}
+
+.bottomcontrols{bottom: 10px; position: absolute; left: 0; right: 0; margin-left: auto; margin-right: auto; width:300px; background-color: white !Important;overflow:hidden;text-align: center}
+
+.controlPleco{font-family: Georgia; font-size: 14px;  display:inline-block; margin-right:0px; }
+.controlSoundSentence{font-family: Georgia; font-size: 14px;  display:inline-block; margin-right:0px; display:inline-block;width:40px;border: 0px solid #000; text-align: center}
+.controlSoundWord{font-family: Georgia; font-size: 14px;  display:inline-block; margin-right:0px;display:inline-block;width:40px;border: 0px solid #000; text-align: center}
+.controlHide{font-family: Georgia; font-size: 14px;  display:inline-block; margin-right:0px}
+
