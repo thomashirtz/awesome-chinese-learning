@@ -145,7 +145,7 @@ It is possible to make the dynamic lookup of subtitles work directly in the brow
 4. Press F11 to put it full screen (Zhongwen does not work full screen on Netflix).
 
 ### Pop-up dictionary on documents 
-One of the main tricks I used while studying in China. You can convert many different formats into PDFs (by printing them). You can then convert them into HTML and use them in the browser to have a pop-up dictionary with zhongwen.
+One of the main tricks I used while studying in China. You can convert many different formats into PDFs (by printing them). You can then convert them into HTML (using [this](https://cloudconvert.com/pdf-to-html) website for example) and use them in the browser to have a pop-up dictionary with zhongwen.
 
 Note: You might have to give Zhongwen permission to access files on your local file system, at least on Chrome.
 
