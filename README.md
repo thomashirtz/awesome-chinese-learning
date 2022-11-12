@@ -129,7 +129,7 @@ Other add-ons can be found on [this](https://ankiweb.net/shared/addons/2.1) page
 ## [Zhongwen](https://github.com/cschiller/zhongwen) (Browser extension)
 Zhongwen is a Chinese pop-up dictionary for browsers (Chrome, Firefox, ...). It is useful to get the translation of specific words on a page by hovering over the word with the mouse.
 
-It is also possible to add the hovered vocabulary to a list by pressing "R". The list can be accessed using "Alt + W".
+It is also possible to add the hovered vocabulary to a list by pressing `R`. The list can be accessed using `Alt + W`.
 
 ### Anki
 The vocabulary list can be downloaded and added to ANKI.
@@ -142,7 +142,7 @@ It is possible to make the dynamic lookup of subtitles work directly in the brow
 1. Install [Zhongwen](https://github.com/cschiller/zhongwen)
 2. Install [Subfilter](https://github.com/met/subfilter)
 3. Go to the show or movie you want to watch, and change the language from the extension Subfilter to _Simplified Chinese_. (Obviously, the media do need to have Chinese subtitles available.)
-4. Press F11 to put it full screen (Zhongwen does not work full screen on Netflix).
+4. Press `F11` to put it full screen (Zhongwen does not work full screen on Netflix).
 
 ### Pop-up dictionary on documents 
 One of the main tricks I used while studying in China. You can convert many different formats into PDFs (by printing them). You can then convert them into HTML (using [this](https://cloudconvert.com/pdf-to-html) website for example) and use them in the browser to have a pop-up dictionary with zhongwen.
@@ -171,7 +171,7 @@ The equivalent of youtube in China. However, in contrast to Youtube, Netflix, ..
 I liked this one because when I start watching Chinese TV Shows, it has 爸爸去哪儿. This show is great for beginner.
 
 ### [XuetangX (学堂在线)](https://www.xuetangx.com/)
-The equivalent of Coursera in Chinese, you can use the Zhongwen + F11 Mode in order to have the possibility of a dictionary pop-up when watching classes.
+The equivalent of Coursera in Chinese, you can use the Zhongwen + full screen (`F11`) mode in order to have the possibility of a dictionary pop-up when watching classes.
 
 ### [Netflix](https://www.netflix.com/browse)
 Netflix can be used to learn Chinese! Thanks to the hack explained [here](https://github.com/thomashirtz/chinese-learning#netflix).
