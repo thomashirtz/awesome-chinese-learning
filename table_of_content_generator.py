@@ -1,7 +1,7 @@
 import re
 from collections import defaultdict
 
-URL = 'https://github.com/thomashirtz/chinese-learning'
+URL = 'https://github.com/thomashirtz/awesome-chinese-learning'
 
 
 def get_table_of_content_entry(text: str) -> str:
