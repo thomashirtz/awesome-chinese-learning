@@ -174,7 +174,7 @@ I liked this one because when I start watching Chinese TV Shows, it has 爸爸�
 The equivalent of Coursera in Chinese, you can use the Zhongwen + full screen (`F11`) mode in order to have the possibility of a dictionary pop-up when watching classes.
 
 ### [Netflix](https://www.netflix.com/browse)
-Netflix can be used to learn Chinese! Thanks to the hack explained [here](https://github.com/thomashirtz/chinese-learning#netflix).
+Netflix can be used to learn Chinese! Thanks to the hack explained [here](https://github.com/thomashirtz/awesome-chinese-learning#netflix).
 
 ### [Chinese Zero To Hero](https://chinesezerotohero.teachable.com/courses) 
 The platform contains many Chinese courses. It is not free; however, it works as a one-time purchase. Very clean and exceptionally well made. The classes are based on the books from BLCU.
