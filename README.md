@@ -233,6 +233,8 @@ Two primary chinese-english dictionaries are popular. Both have a free version, 
 
 ## Translators
 
+### [DeepL Translate](https://www.deepl.com/translator)
+
 ### [Google translate](https://translate.google.com/?sl=zh-CN)
 
 The best translator, not available in China.
