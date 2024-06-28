@@ -116,6 +116,8 @@ Training vocabulary with flashcards will take quite some time. It is, therefore,
  Hard interval = 1.20
  New interval = 0.80
 ```
+
+I also created a custom template for the first [deck](https://github.com/thomashirtz/awesome-chinese-learning#decks) mentionned, which is [here](https://github.com/thomashirtz/awesome-chinese-learning/tree/main/anki_card_template).
  
 </details>
 
