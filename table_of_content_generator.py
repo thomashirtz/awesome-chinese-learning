@@ -1,8 +1,6 @@
 import re
 from collections import defaultdict
 
-URL = 'https://github.com/thomashirtz/awesome-chinese-learning'
-
 
 def get_table_of_content_entry(text: str) -> str:
     level = text.count('#')
@@ -18,8 +16,7 @@ def get_table_of_content_entry(text: str) -> str:
     # Add hyphens and transform to lowercase
     link_path = link_path.replace(' ', '-').lower()
 
-    link_path = URL + '#' + link_path
-    return f'{space}[{link_text}]({link_path})  '
+    return f'{space}[{link_text}](#{link_path})'
 
 
 if __name__ == '__main__':
