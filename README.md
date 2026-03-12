@@ -228,7 +228,7 @@ It is an excellent android application for learning how to write characters as w
 ### [Animated stroke order for Chinese characters](https://www.chineseconverter.com/en/convert/chinese-stroke-order-tool) (In Browser)
 A website that can show the stroke orders of the inputed characters.
 
-### [HanziStroke(汉字笔顺)](https://www.hanzistroke.com) (In Browser)
+### [HanziStroke](https://www.hanzistroke.com) (In Browser)
 A Chinese character learning site with interactive stroke order animations for thousands of characters. It covers HSK 2.0 and 3.0 vocabulary, and provides printable PDF worksheets for offline handwriting practice.
 
 ## Dictionaries
