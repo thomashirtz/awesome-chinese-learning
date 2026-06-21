@@ -313,3 +313,4 @@ It is a converter that transforms Chinese characters into pinyin. Such can be ve
 * [/r/ChineseLanguage](https://discord.gg/Hnd9Msy)
 * [chinese-guide](https://gitlab.com/tengutengu/chinese-guide)
 * [resource-guide](https://espaspw.github.io/Resource-Guide/#Mandarin)
+* [WordMeadow](https://wordmeadow.app/learn/chinese/from/english/themes) - Visual vocabulary theme cards for learning Chinese by topic.
