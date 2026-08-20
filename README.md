@@ -15,6 +15,7 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [Netflix](#netflix)
   * [Pop-up dictionary on documents](#pop-up-dictionary-on-documents)
   * [Novels in HTML](#novels-in-html)
+  * [macOS alternative: HanziKey](#macos-alternative-hanzikey)
 * [Video Resources](#video-resources)
   * [Bilibili (哔哩哔哩)](#bilibili-哔哩哔哩)
   * [Youku (优酷)](#youku-优酷)
@@ -156,6 +157,9 @@ Note: You might have to give Zhongwen permission to access files on your local f
 Some Chinese novels are available for free online in an HTML format. It is perfect for our new favorite trick, the pop-up dictionary.
 
 Example of a free book : [三体](https://www.shizongzui.cc/santi/),
+
+### macOS alternative: HanziKey
+[HanziKey](https://www.hanzikey.com/) offers the same hover-popup dictionary experience but system-wide, in any app. No need to convert files to HTML format. Hover over any Chinese text on screen (PDFs in Preview, video subtitles, iMessage, native apps) and get pinyin + definitions instantly. Free, offline, powered by CC-CEDICT.
 
 ## Video Resources
 [Douban](https://movie.douban.com/tv/#!type=tv&tag=%E5%9B%BD%E4%BA%A7%E5%89%A7&sort=recommend&page_limit=20&page_start=0) is the main website to watch the score of different movies/TV shows. It is the equivalent of IMDB.  
