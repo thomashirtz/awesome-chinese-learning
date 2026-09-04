@@ -66,6 +66,7 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [chinese-shadowing](#chinese-shadowing)
   * [Chinese OCR](#chinese-ocr)
   * [Pinyin Converter](#pinyin-converter)
+  * [HSK Studio](#hsk-studio)
 * [Resource guides](#resource-guides)
 <!-- End of the table of content --> 
 
@@ -306,6 +307,9 @@ Here are some Chinese OCRs for converting an image to text using the computer (I
 It is a converter that transforms Chinese characters into pinyin. Such can be very useful, especially when creating Anki cards or else.
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
+
+### [HSK Studio](https://hsk.fulinlabs.com)
+Free browser app for reading your own Chinese text with optional pinyin, in-place dictionary lookup, saved vocabulary, and spaced-repetition review. It requires no account and also includes daily word games and Chinese text-analysis tools.
 
 
 ## Resource guides
