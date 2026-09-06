@@ -196,6 +196,9 @@ Most popular news aggregator in China. That can be nice to hear the latest event
 ### [Weibo](https://weibo.com)
 The chinese twitter. Also a great way to discover the current trends. However, in contrary to Zhihu, you need to know some accounts to follow, and it can be daunting to find nice feeds in the beginning, especially without a deep Chinese understanding. I therefore never really hooked up to that platform.
 
+### [RuShiWoWen (如是我闻)](https://rushiwowen.co/en/)
+An online reader and full-text search tool for the CBETA Chinese Buddhist canon. It is especially useful for advanced learners working with Buddhist and classical Chinese; English and Japanese layers are AI-assisted reading aids, not authoritative translations.
+
 ## Audio Resources
 
 ### AudioBooks and Podcasts
