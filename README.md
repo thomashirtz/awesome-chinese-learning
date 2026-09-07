@@ -307,6 +307,17 @@ It is a converter that transforms Chinese characters into pinyin. Such can be ve
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
 
+## HSK Test Preparation
+
+### HSK Test Practice
+
+HSK is a standardized Chinese proficiency test for non-native Chinese learners. It measures practical Chinese ability in everyday, academic, and professional contexts.The official Chinese Testing Service currently lists six graded exams, HSK 1 through HSK 6, and one combined advanced exam that reports a result at HSK 7, HSK 8, or HSK 9.
+
+[HSK Exam](https://hskexam.net/hsktests.html) provides online HSK practice tests to help Chinese learners prepare for the HSK test.
+
+### HSK Vocabulary
+
+[HSK Vocabulary](https://hskexam.net/vocabulary.html) provides Official New HSK 3.0 vocabulary lists organized by level, with Chinese words, pinyin, parts of speech, English translations, and downloadable PDFs.
 
 ## Resource guides
 
