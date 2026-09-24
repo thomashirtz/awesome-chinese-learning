@@ -313,3 +313,4 @@ It is a converter that transforms Chinese characters into pinyin. Such can be ve
 * [/r/ChineseLanguage](https://discord.gg/Hnd9Msy)
 * [chinese-guide](https://gitlab.com/tengutengu/chinese-guide)
 * [resource-guide](https://espaspw.github.io/Resource-Guide/#Mandarin)
+* [17Talk — China guides and travel Mandarin](https://17talk.org/guides) — free, source-cited guides on payments, SIM cards, rail and food for first-time visitors, plus 50 travel phrases with audio.
