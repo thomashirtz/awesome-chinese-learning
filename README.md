@@ -301,6 +301,7 @@ It is a small tool I wrote in order to do some shadowing using the deck mentione
 Here are some Chinese OCRs for converting an image to text using the computer (It can be pretty helpful if you want, for example, put the Chinese textbook's vocabulary list into your Anki deck).
 1. [Convertio](https://convertio.co/ocr/chinese/)
 2. [Easy ScreenOCR](https://online.easyscreenocr.com/Home/ChineseOCR)
+3. [YuzuLingo](https://yuzulingo.com): Free browser extension that runs local OCR over hardcoded video subtitles (Bilibili, YouTube, iQIYI) to enable popup dictionary lookups (Zhongwen, Yomitan) and real-time Pinyin overlays.
 
 ### Pinyin Converter
 It is a converter that transforms Chinese characters into pinyin. Such can be very useful, especially when creating Anki cards or else.
