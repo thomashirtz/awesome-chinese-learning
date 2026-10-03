@@ -66,6 +66,8 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [chinese-shadowing](#chinese-shadowing)
   * [Chinese OCR](#chinese-ocr)
   * [Pinyin Converter](#pinyin-converter)
+  * [HSK 2.0 to 3.0 level checker](#hsk-20-to-30-level-checker)
+  * [Zhenzhu (macOS app)](#zhenzhu-macos-app)
 * [Resource guides](#resource-guides)
 <!-- End of the table of content --> 
 
@@ -306,6 +308,12 @@ Here are some Chinese OCRs for converting an image to text using the computer (I
 It is a converter that transforms Chinese characters into pinyin. Such can be very useful, especially when creating Anki cards or else.
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
+
+### [HSK 2.0 to 3.0 level checker](https://zhenzhu.app/tools/hsk-3-checker)
+Paste a word list or upload an Anki export to see each word's old HSK 2.0 level next to its new HSK 3.0 level, and download the deck with `HSK3::` level tags added. Free, and it runs entirely in the browser.
+
+### [Zhenzhu](https://zhenzhu.app) (macOS app)
+A pop-up dictionary that works in any Mac app, not only the browser: select or hover over Chinese text, or snip part of the screen (OCR) for images, PDFs and paused videos. It shows pinyin, meanings and HSK levels, and can save a word together with its sentence as a flashcard or send it to Anki. Free with monthly limits on new cards and OCR; Pro is a one-time purchase.
 
 
 ## Resource guides
