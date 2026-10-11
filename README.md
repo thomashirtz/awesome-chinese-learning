@@ -28,6 +28,7 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [Zhihu](#zhihu)
   * [Toutiao](#toutiao)
   * [Weibo](#weibo)
+  * [Graded Reading](#graded-reading)
 * [Audio Resources](#audio-resources)
   * [AudioBooks and Podcasts](#audiobooks-and-podcasts)
     * [Ximalaya (喜马拉雅)](#ximalaya-喜马拉雅)
@@ -195,6 +196,9 @@ Most popular news aggregator in China. That can be nice to hear the latest event
 
 ### [Weibo](https://weibo.com)
 The chinese twitter. Also a great way to discover the current trends. However, in contrary to Zhihu, you need to know some accounts to follow, and it can be daunting to find nice feeds in the beginning, especially without a deep Chinese understanding. I therefore never really hooked up to that platform.
+
+### Graded Reading
+* [HSK Read](https://hskread.com) — Free graded Chinese reading (HSK 1–9) with optional pinyin/audio/translation and public methodology counts.
 
 ## Audio Resources
 
