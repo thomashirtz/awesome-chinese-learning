@@ -49,6 +49,7 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [Google translate](#google-translate)
   * [Bing translator](#bing-translator)
   * [Baidu translator](#baidu-translator)
+  * [TranslateMyImage](#translatemyimage)
 * [Multimedia players](#multimedia-players)
   * [PotPlayer](#potplayer)
   * [Podcast addict](#podcast-addict)
@@ -247,6 +248,10 @@ The best translator, not available in China.
 Works in China.
 
 ### [Baidu translator](https://fanyi.baidu.com)
+
+### [TranslateMyImage](https://translatemyimage.com/)
+
+Translates the Chinese text inside an image (menu, sign, screenshot, manhua page) and returns the same image with the translation in place. Free plan of 3 images a month.
 
 
 ## Multimedia players
