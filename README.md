@@ -66,6 +66,7 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [chinese-shadowing](#chinese-shadowing)
   * [Chinese OCR](#chinese-ocr)
   * [Pinyin Converter](#pinyin-converter)
+  * [Mandarin Hero (iOS)](#mandarin-hero-ios)
 * [Resource guides](#resource-guides)
 <!-- End of the table of content --> 
 
@@ -306,6 +307,9 @@ Here are some Chinese OCRs for converting an image to text using the computer (I
 It is a converter that transforms Chinese characters into pinyin. Such can be very useful, especially when creating Anki cards or else.
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
+
+### [Mandarin Hero](https://nuli.nl/apps/mandarinhero/) (iOS)
+An app for speaking everyday, colloquial Mandarin. Each lesson is a real situation (ordering food, a taxi, chatting on WeChat): you learn its words and phrases, hear the conversation, then play your part out loud in a role-play. Spaced repetition brings the words back, with all of HSK 1 to 6 for extra practice. Free to start, no ads ([App Store](https://apps.apple.com/app/mandarin-hero/id6802076609)).
 
 
 ## Resource guides
