@@ -307,6 +307,9 @@ It is a converter that transforms Chinese characters into pinyin. Such can be ve
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
 
+### [NihaoLearn](https://nihaolearn.com/pinyin/tone-trainer)
+A free browser-based tone trainer: record a syllable and see your pitch curve overlaid on a reference contour. It also scores words and sentences against recorded audio. No signup or app install.
+
 
 ## Resource guides
 
