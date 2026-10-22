@@ -37,7 +37,11 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [Music](#music)
     * [NetEase Cloud Music (网易云音乐)](#netease-cloud-music-网易云音乐)
     * [QQ Music (QQ音乐)](#qq-music-qq音乐)
-* [Calligraphy & Writing](#calligraphy--writing)
+  * [Pronunciation & Tones](#pronunciation--tones)
+   * [Chinese Pronunciation Wiki](#chinese-pronunciation-wiki)
+   * [The Hacking Chinese guide to Mandarin tones](#the-hacking-chinese-guide-to-mandarin-tones)
+   * [TingliLab](#tinglilab) [Pronunciation & Tones](#pronunciation--tones)
+  * [Calligraphy & Writing](#calligraphy--writing)
   * [Shufazidian (书法字典)](#shufazidian-书法字典)
   * [How to write Chinese character (Android application)](#how-to-write-chinese-character-android-application)
   * [Animated stroke order for Chinese characters (In Browser)](#animated-stroke-order-for-chinese-characters-in-browser)
@@ -215,6 +219,17 @@ The two following platforms are great to listen to Chinese songs and songs in ge
 
 #### [NetEase Cloud Music (网易云音乐)](https://www.ximalaya.com/)
 #### [QQ Music (QQ音乐)](https://music.qq.com/)
+
+## Pronunciation & Tones
+
+### [Chinese Pronunciation Wiki](https://resources.allsetlearning.com/chinese/pronunciation/)
+Free reference from AllSet Learning: every pinyin sound and tone explained, with pronunciation points grouped by level.
+
+### [The Hacking Chinese guide to Mandarin tones](https://www.hackingchinese.com/the-hacking-chinese-guide-to-mandarin-tones/)
+Olle Linge's collected articles on learning tones: what they are, how to practise them, and the usual problems.
+
+### [TingliLab](https://tinglilab.org/?from=gh)
+Free browser-based tone trainer, no account: tone dictation, four-tones playback, repeat-back with a pitch-based tone judge, pinyin/zhuyin dictation on the HSK 1–3 words, and handwriting with stroke checks. Works offline once a voice is downloaded.
 
 ## Calligraphy & Writing
 
