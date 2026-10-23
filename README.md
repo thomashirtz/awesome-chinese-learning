@@ -66,6 +66,7 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [chinese-shadowing](#chinese-shadowing)
   * [Chinese OCR](#chinese-ocr)
   * [Pinyin Converter](#pinyin-converter)
+  * [FindChineseName](#findchinesename)
 * [Resource guides](#resource-guides)
 <!-- End of the table of content --> 
 
@@ -306,6 +307,9 @@ Here are some Chinese OCRs for converting an image to text using the computer (I
 It is a converter that transforms Chinese characters into pinyin. Such can be very useful, especially when creating Anki cards or else.
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
+
+### [FindChineseName](https://findchinesename.com)
+A website that suggests a native-style Chinese name for an English name (e.g. Chloe → 柯露 Kē Lù instead of the transliteration 克洛伊), with pinyin and character meanings. The basic result is free without an account; a more detailed report is a paid option. It also has an encyclopedia of 1000+ Chinese surnames.
 
 
 ## Resource guides
