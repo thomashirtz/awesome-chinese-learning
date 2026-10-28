@@ -73,6 +73,8 @@ If you have suggestions please feel free to submit an issue or a pull request :)
 
 [Anki](https://apps.ankiweb.net/) is the default app for flashcards on android and windows.
 
+[LexiTrail](https://lexitrail.com) (web and Android) has the HSK 1–6 and HSK 3.0 word lists as flashcards with spaced repetition, audio and stroke order, and can be used without an account.
+
 ### Decks
 Here are some decks worth noting:
 *  ["Best Anki Deck for HSK I've come across"](https://www.reddit.com/r/ChineseLanguage/comments/7mjmjc/best_anki_deck_for_hsk_ive_come_across/): The deck that I use extensively. It is extremely good and accompanied me throughout my entire learning journey.
