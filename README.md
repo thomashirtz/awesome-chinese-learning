@@ -292,6 +292,9 @@ Online language platform to find teachers for 1-on-1 tutoring. I did not personn
 
 ### Gboard (Android)
 
+### [MandarinReps](https://mandarinreps.com/chinese-typing-practice)
+Free-to-start sentence-level Mandarin typing practice for HSK 2–4 learners using a Chinese Pinyin IME and immediate feedback.
+
 ## Miscellaneous
 
 ### [chinese-shadowing](https://github.com/thomashirtz/chinese-shadowing)
