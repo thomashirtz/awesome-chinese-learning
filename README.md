@@ -66,6 +66,7 @@ If you have suggestions please feel free to submit an issue or a pull request :)
   * [chinese-shadowing](#chinese-shadowing)
   * [Chinese OCR](#chinese-ocr)
   * [Pinyin Converter](#pinyin-converter)
+  * [HanziDrill](#hanzidrill)
 * [Resource guides](#resource-guides)
 <!-- End of the table of content --> 
 
@@ -307,6 +308,8 @@ It is a converter that transforms Chinese characters into pinyin. Such can be ve
 1. [Lexilogos](https://www.lexilogos.com/keyboard/pinyin_conversion.htm)
 2. [ChineseConverter](https://www.chineseconverter.com/en/convert/chinese-to-pinyin) (Seems to have many different nice tools, including conversion traditional<=>chinese)
 
+### [HanziDrill](https://hanzidrill.com)
+HSK 3.0 word lists, topic drills, mock tests, flashcards and stroke-order practice. A free study tier is available. Not affiliated with Chinese Testing International / HSK.
 
 ## Resource guides
 
